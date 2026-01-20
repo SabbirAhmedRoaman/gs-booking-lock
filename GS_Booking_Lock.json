@@ -1,10 +1,10 @@
 {
   "locked": false,
   "admin_hash": "6f8e67b61118399da915510797b9df8092c6452cc851b6f6631a14d32935981d",
-  "timestamp": 1768900739.0018482,
+  "timestamp": 1768902643.0070136,
   "app_id": "GS_BOOKING_V1",
   "company": "GS_BOOKING_SYSTEM",
   "version": "2.0",
   "key_version": "v1",
-  "signature": "92b41f1be327b0cc9eeed631026b677bdeb968e8deea51356f8d8d8e0e3cc1fb"
+  "signature": "d49004923cc4a3e205b4179fd869174566281a72e968760aadb2c761699f35ec"
 }
